@@ -12,9 +12,18 @@
 - 💼 **Experience:** Actively seeking internship opportunities to apply my skills in real-world development environments
 
 ## 🌐 Connect With Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nayyar-azam-75631732a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/your_username_here)
-[<img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black" />](https://snapchat.com/add/mrnayyarazam)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nayyar-azam-75631732a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/your_username_here">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://snapchat.com/add/mrnayyarazam">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
+  </a>
+</p>
 
 ## 🛠️ Languages & Tools
 <p align="left">
