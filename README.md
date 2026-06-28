@@ -21,12 +21,17 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,tailwind,threejs,vscode,git,github,postman,linux,docker,aws&perline=9" />
 </p>
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats & Streaks
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mr-nayyar-azam&show_icons=true&theme=radical&count_private=true" alt="Nayyar's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-nayyar-azam&theme=radical&hide_border=false" alt="Nayyar's Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-nayyar-azam&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+## 🏆 My GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mr-nayyar-azam&theme=radical&row=1&column=7" />
 </p>
