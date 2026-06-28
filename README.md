@@ -12,7 +12,7 @@
 - ## 🌐 Connect With Me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/your-profile)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/your-profile)
-[<img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black" />](https://snapchat.com/add/your_username)
+[<img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black" />](https://snapchat.com/add/mrnayyarazam)
 
 
 ## 🛠️ Languages & Tools
