@@ -15,8 +15,18 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nayyar-azam-75631732a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/your_username_here">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://snapchat.com/add/mrnayyarazam">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" alt="Snapchat" width="50" />
+  </a>
+</p>
+
   <a href="https://instagram.com/your_username_here">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
