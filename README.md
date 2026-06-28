@@ -6,7 +6,7 @@
 
 ## 👤 About Me
 - 🎓 **Current Study:** Computer Science Engineering student
-- 💻 **Core Focus:** Full-stack development, AI prompt engineering, and UI architecture
+- 💻 **Core Focus:** Full-stack Web developer, DSA in Java, AI & ML.
 - ⚡ **Tech Interests:** React, Tailwind CSS, Node.js, and Python
 - 🚀 **Projects:** Building intelligent recommendation engines like Smart Search AI
 - ## 🌐 Connect With Me
